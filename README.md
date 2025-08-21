@@ -6,7 +6,7 @@ test 4
 test5
 test 6
 test 7
-test 8 9 10 11 12 13 14
+test 8 9 10 11 12 13 14 15
 All the design has been generated with [tailwindcss](https://tailwindcss.com/).
 Find all the theme related configuration inside tailwind.config.js
 
